@@ -1,0 +1,3 @@
+$_Server gives us information about HTTP connection, Server information, port information and url information.
+
+Suppose, in a file, you want to run a query in one page and not one file to another. You can do one query , then a conditional and apply a crud application and sent it to a database. All in one page.

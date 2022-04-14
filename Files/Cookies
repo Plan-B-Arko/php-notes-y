@@ -1,0 +1,3 @@
+Cookies will save datas in visitor 's computer when they visit a webpage.
+
+setcookie(name, value, expire, path, domain, secure, httponly)

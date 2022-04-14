@@ -1,0 +1,12 @@
+SESSIONS is same like cookies, except it save datas in your adminstrators ' webpage not client webpage. To save inforamtion temporarily, it is called session store. And to save permanently, you can save it in a database. You can also get information from session store and database. Session is mainly login page and registration.
+
+Step 1. session_start();
+Step 2. $_Session[name] = value;
+Step 3. echo $_SESSION['name'];
+
+
+
+
+To delete Sessions:
+Step1: session_unset();  it removes all session variables.
+Step2: session_destroy(); it destroys all session .
